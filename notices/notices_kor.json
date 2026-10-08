@@ -1,0 +1,439 @@
+{
+ "format": "hololive-dreams-notices",
+ "region": "jp",
+ "lang": "kor",
+ "app_version": "1.2.1",
+ "categories": [
+  {
+   "id": "notice_category-news",
+   "name": "목록",
+   "display_type": 1,
+   "display_type_name": "normal",
+   "notices": [
+    {
+     "id": "notice-news-gacha-pickup-261007",
+     "title": "다리 놓는 오션 크리에이트 뽑기 개최!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b9d56c7b08fa53666f31ca12d262b67359bd24e08b11994d444b25a0c75ba0c4/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261007",
+     "start_time": 1791338400000,
+     "start_time_utc": "2026-10-07T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-006",
+     "title": "스코어 챌린지 이벤트「양보할 수 없는 오션 체이스」 개최!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/ca81d51909b806ddbdb9f5aee6b62d89451ec39b62914bc8ee60b2863575fc26/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-006",
+     "start_time": 1791342000000,
+     "start_time_utc": "2026-10-07T03:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-261002",
+     "title": "Ver.1.2.1 업데이트 안내",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c6fa3cc4a8c73b3360f4ea847b6557e18c9db775306fad0ff3a7b6f683b4ae6d/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1790906400000,
+     "start_time_utc": "2026-10-02T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gift-sales_ranking_1st-gacha-260929",
+     "title": "스토어 매출 랭킹 1위 달성!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6f09085535eafb5e6eabb2e50ff84e71500ffa6b02ec3728f95254be06ba51c3/index.html",
+     "banner_asset_id": "img_banner_full_gift-sales-ranking-1st-gacha-260929",
+     "start_time": 1790748000000,
+     "start_time_utc": "2026-09-30T06:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-area03",
+     "title": "신규 구역 「소다팝 라군」 등장!",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d98186bafc3b539bb8d3a74630d91ea569da7876f0e4b6135dc1c07fc9b22b99/index.html",
+     "banner_asset_id": "img_banner_full_area-a03",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-pickup-260929",
+     "title": "꿈꾸는 블루 프론티어 뽑기 개최!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/90cb9911d3826ed67a178557b0bb3c2dab2554ea82b5c4681c798a1455e2cc39/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-260929",
+     "start_time": 1790629200000,
+     "start_time_utc": "2026-09-28T21:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-missionpass-261001",
+     "title": "「미션 패스 2026년 10월」 개최!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/203612e2316db63742fe097b7bb97d86bcd004155ecc915d8410c6c399a9a21f/index.html",
+     "banner_asset_id": "img_banner_full_shop-missionpass-261001",
+     "start_time": 1790798400000,
+     "start_time_utc": "2026-09-30T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-membership-261001",
+     "title": "멤버십에 「이모티콘」 추가!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/07f88dfd9cd2d6e724b8dc1097a786ec440d0f1c0969558d3ce183b5359fb740/index.html",
+     "banner_asset_id": "img_banner_full_shop-membership-261001",
+     "start_time": 1790798400000,
+     "start_time_utc": "2026-09-30T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-005",
+     "title": "스코어 챌린지 이벤트 「두근두근 블루 스플래시!」 개최!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/474587b3004f609002f2686e514c161695c50e10a9e58decfe6cd99cdd966b3b/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-005",
+     "start_time": 1790650800000,
+     "start_time_utc": "2026-09-29T03:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-login_bonus-event-260929",
+     "title": "신규 구역 추가 기념 로그인 보너스 개최!",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1996d615211cde0fc454e4bf8ea1a94391caa798c3972e07ebf71f39fa8c0b0b/index.html",
+     "banner_asset_id": "img_banner_full_login-bonus-event-260929",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-fixed-260929",
+     "title": "신규 구역 추가 기념! 1명 ★5 확정 뽑기 개최!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fe9ce4f8e365b9dd1f93f0c7e9734b9400827e838f55473bcd781de2e7bad47f/index.html",
+     "banner_asset_id": "img_banner_full_gacha-fixed-260929",
+     "start_time": 1790629200000,
+     "start_time_utc": "2026-09-28T21:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-area03-select-260929",
+     "title": "신규 구역 추가 기념! 선택 가능! ★5 멤버 뽑기 개최!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/65e75fc079324721dab82da4204fbaaa6ccf0e9e3e2c8d2f2c4ea17d1cb7e098/index.html",
+     "banner_asset_id": "img_banner_full_gacha-area03-260929",
+     "start_time": 1790629200000,
+     "start_time_utc": "2026-09-28T21:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-stone-area03_celebration-260929",
+     "title": "신규 구역 추가 기념으로 기간 한정 패키지 등장",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1d84568718e10f213861e88ff014cce706ae000ca15c4a8c371ee5aa6030d1d6/index.html",
+     "banner_asset_id": "img_banner_full_shop-stone-area03-celebration-260929",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-mission-area03-release-260929",
+     "title": "신규 구역 추가 기념 미션 개최!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/82968b599b44062f531ea8f27ae2f81e9b7bdf10c12b35de7f4b20d8fa17f003/index.html",
+     "banner_asset_id": "img_banner_full_event-mission-area03-release-260929",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260929",
+     "title": "Ver.1.2.0 업데이트 안내",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9be72419d6b5054d2b0dc7a0adb7877a82f546d874f4d388b822fb76601766f7/index.html",
+     "banner_asset_id": "img_banner_full_update-area03",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-holocard-ranking_reset",
+     "title": "앞으로의 「포카장!」 설정 변경에 관한 공지",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2a3b95b8aab79b75534f137b91abaeab4d97967164fe8d6c529938b6379c8db2/index.html",
+     "banner_asset_id": "",
+     "start_time": 1789626600000,
+     "start_time_utc": "2026-09-17T06:30:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-music-release-260926",
+     "title": "네폭스!의 악곡 「Watcha Gatcha!!!!!!!!」 추가!",
+     "type": 5,
+     "type_name": "music_update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d1702fcdf4c91e93be9e4488d50f72ef1fd72db54e4c8c804545fe5afa9bd2df/index.html",
+     "banner_asset_id": "img_banner_full_music-release-260927",
+     "start_time": 1790424000000,
+     "start_time_utc": "2026-09-26T12:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-maintenance-260922",
+     "title": "점검 공지",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f843f0127793b7b01cf31d5db36022734daafd233bafba15cf5864539551b592/index.html",
+     "banner_asset_id": "img_banner_full_maintenance-info",
+     "start_time": 1790092800000,
+     "start_time_utc": "2026-09-22T16:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260909",
+     "title": "Ver.1.1.1 업데이트 안내",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b79c51601436adac672d954718c9cfeb53ff957fb1295664a57b6e2b83b69710/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1788919200000,
+     "start_time_utc": "2026-09-09T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-chase",
+     "title": "신규 미니 게임 「어둠 속 추적」 개막!",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7fbd3a660d775a43dc2c4d8e854f6d3d985cc01d1eaa1fe1dd9c67066780c378/index.html",
+     "banner_asset_id": "img_banner_full_minigame-chase-260828",
+     "start_time": 1787882400000,
+     "start_time_utc": "2026-08-28T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260828",
+     "title": "Ver.1.1.0 업데이트 안내",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6a5b0cc955ad2bcc36edbd7378c7e7383d66b8bfa5001d0b26df770015ba1ed6/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1787882400000,
+     "start_time_utc": "2026-08-28T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-creative-chart-01",
+     "title": "창작 악보의 포스팅에 대한 안내",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/149563ba0a257a2a85d45430eb80af294f970e954a76c5f3532d63ba00c38836/index.html",
+     "banner_asset_id": "",
+     "start_time": 1785999600000,
+     "start_time_utc": "2026-08-06T07:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260805",
+     "title": "Ver.1.0.101 업데이트 안내",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/122a478d51273219f61226c86c2b4a4818bf164d5a8ec0264157817242b12638/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1785927600000,
+     "start_time_utc": "2026-08-05T11:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260730",
+     "title": "Ver.1.0.100 업데이트 안내",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6cf43effb701c8d61b5da52b9a2f945edb2ca2cb5ed4186aee29a026fda98a1b/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1785382200000,
+     "start_time_utc": "2026-07-30T03:30:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-mv-release",
+     "title": "일부 악곡 MV 추가 안내",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f8ec17a03f9c20edfd5364f14bec3ac3638aa8b30f7d3117702ec11c9952a993/index.html",
+     "banner_asset_id": "",
+     "start_time": 1785200400000,
+     "start_time_utc": "2026-07-28T01:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info_campaign-release",
+     "title": "「hololive Dreams」 정식 서비스 시작",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fc005aa720a428a26f6f51605d067f80dda743d875f032f5df671d54b1994775/index.html",
+     "banner_asset_id": "img_banner_full_info-campaign-release",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-mission_beginner-release",
+     "title": "초보자 미션 개최",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c97c6cf3cd3c4e55ce4ea0b33ad9be5d6419fa35237f1faa054c4731689989df/index.html",
+     "banner_asset_id": "img_banner_full_event-mission-beginner-mission",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-fixed-beginner-001",
+     "title": "48시간 한정! ★5 1명 확정! 스타트 대시 뽑기 개최",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/48e3ca48a3bfdf2aecc9e2ffe33a1396e466f9a399797fdb7f6d1f196f120d97/index.html",
+     "banner_asset_id": "img_banner_full_gacha-fixed-beginner-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-beginner-select-001",
+     "title": "7일 한정! 선택 가능! 초보자 응원 뽑기 개최",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f9da0e4c76657a6b970cd95c7c0bdabaaaf9d5aa4f4e8e968e0e7d4b4bd4ad01/index.html",
+     "banner_asset_id": "img_banner_full_gacha-beginner-select-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_startdash-release",
+     "title": "출시 기념으로 기간 한정 패키지 등장",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/da2ba6660575f675c42cb090982b8be2ce63c0429bfcb0642a5371d08889e49a/index.html",
+     "banner_asset_id": "img_banner_full_shop-startdash-release",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    }
+   ]
+  },
+  {
+   "id": "notice_category-mal",
+   "name": "오류",
+   "display_type": 1,
+   "display_type_name": "normal",
+   "notices": [
+    {
+     "id": "notice-mal-list-fixed",
+     "title": "수정이 완료된 오류",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bbe5bef87f9123043ab58351ddc0711441bb9190dc78836dc4358d660d79af3f/index.html",
+     "banner_asset_id": "",
+     "start_time": 1787875200000,
+     "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-mal-list-confirmed",
+     "title": "현재 확인 중인 오류",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/873278601f81e581b91e0ceecefb150dc3c97d5b5ba886d6fe3c22a8d8194e45/index.html",
+     "banner_asset_id": "",
+     "start_time": 1787875200000,
+     "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-mal-login-failed-android-01-ios",
+     "title": "일부 Android 기종에서 로그인할 수 없는 오류",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fa90abd9674ed9d3bf4496bba9dfb7be8b31d5ebd326502d6498972646b1456f/index.html",
+     "banner_asset_id": "",
+     "start_time": 1789626600000,
+     "start_time_utc": "2026-09-17T06:30:00Z",
+     "external_url": ""
+    }
+   ]
+  },
+  {
+   "id": "notice_category-pr",
+   "name": "관련 사이트",
+   "display_type": 2,
+   "display_type_name": "banner",
+   "notices": [
+    {
+     "id": "notice-pr-official-game-website",
+     "title": "",
+     "type": 0,
+     "type_name": "unknown",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/63687b02e59d4d6a77585c5fc3280c81e0d47a4a4dbf3155b24b3e33a27154bc/index.html",
+     "banner_asset_id": "img_banner_full_pr-official-game-website",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": "https://opening.hololive-dreams.com/en"
+    },
+    {
+     "id": "notice-pr-official-game-x",
+     "title": "",
+     "type": 0,
+     "type_name": "unknown",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/63687b02e59d4d6a77585c5fc3280c81e0d47a4a4dbf3155b24b3e33a27154bc/index.html",
+     "banner_asset_id": "img_banner_full_pr-official-game-x",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": "https://x.com/holo_dreams_en"
+    },
+    {
+     "id": "notice-pr-official-game-youtube",
+     "title": "",
+     "type": 0,
+     "type_name": "unknown",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/63687b02e59d4d6a77585c5fc3280c81e0d47a4a4dbf3155b24b3e33a27154bc/index.html",
+     "banner_asset_id": "img_banner_full_pr-official-game-youtube",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": "https://www.youtube.com/@hololivedreams"
+    },
+    {
+     "id": "notice-pr-official-game-discord",
+     "title": "",
+     "type": 0,
+     "type_name": "unknown",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/63687b02e59d4d6a77585c5fc3280c81e0d47a4a4dbf3155b24b3e33a27154bc/index.html",
+     "banner_asset_id": "img_banner_full_pr-official-game-discord",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": "https://discord.gg/hololive-dreams"
+    }
+   ]
+  }
+ ]
+}
