@@ -110,17 +110,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-005",
-     "title": "스코어 챌린지 이벤트 「두근두근 블루 스플래시!」 개최!",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/474587b3004f609002f2686e514c161695c50e10a9e58decfe6cd99cdd966b3b/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-005",
-     "start_time": 1790650800000,
-     "start_time_utc": "2026-09-29T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-login_bonus-event-260929",
      "title": "신규 구역 추가 기념 로그인 보너스 개최!",
      "type": 6,
@@ -338,6 +327,17 @@
      "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_pass-release",
+     "title": "Holo 패스포트 등 특가 상품 등장",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/950755d21d38d0bebd10e0caa62573b671cfc138cfef899793149b3135c62e29/index.html",
+     "banner_asset_id": "img_banner_full_hololive-pass-release",
+     "start_time": 1784772000000,
+     "start_time_utc": "2026-07-23T02:00:00Z",
      "external_url": ""
     }
    ]
