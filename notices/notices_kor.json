@@ -187,17 +187,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-info-maintenance-260922",
-     "title": "점검 공지",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f843f0127793b7b01cf31d5db36022734daafd233bafba15cf5864539551b592/index.html",
-     "banner_asset_id": "img_banner_full_maintenance-info",
-     "start_time": 1790092800000,
-     "start_time_utc": "2026-09-22T16:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-260909",
      "title": "Ver.1.1.1 업데이트 안내",
      "type": 3,
@@ -338,6 +327,17 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-common-001",
+     "title": "holo드림 뽑기 개최",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/40e5c73aa767353696758be127a7836a7789fc5a077e31621e1fdce73aa799e2/index.html",
+     "banner_asset_id": "img_banner_full_gacha-common-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
