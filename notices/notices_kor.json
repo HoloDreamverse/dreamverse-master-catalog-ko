@@ -55,17 +55,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gift-sales_ranking_1st-gacha-260929",
-     "title": "스토어 매출 랭킹 1위 달성!",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6f09085535eafb5e6eabb2e50ff84e71500ffa6b02ec3728f95254be06ba51c3/index.html",
-     "banner_asset_id": "img_banner_full_gift-sales-ranking-1st-gacha-260929",
-     "start_time": 1790748000000,
-     "start_time_utc": "2026-09-30T06:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-area03",
      "title": "신규 구역 「소다팝 라군」 등장!",
      "type": 3,
@@ -162,17 +151,6 @@
      "banner_asset_id": "img_banner_full_update-area03",
      "start_time": 1790647200000,
      "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-holocard-ranking_reset",
-     "title": "앞으로의 「포카장!」 설정 변경에 관한 공지",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2a3b95b8aab79b75534f137b91abaeab4d97967164fe8d6c529938b6379c8db2/index.html",
-     "banner_asset_id": "",
-     "start_time": 1789626600000,
-     "start_time_utc": "2026-09-17T06:30:00Z",
      "external_url": ""
     },
     {
