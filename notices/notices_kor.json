@@ -369,17 +369,6 @@
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
      "external_url": ""
-    },
-    {
-     "id": "notice-mal-login-failed-android-01-ios",
-     "title": "일부 Android 기종에서 로그인할 수 없는 오류",
-     "type": 100,
-     "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fa90abd9674ed9d3bf4496bba9dfb7be8b31d5ebd326502d6498972646b1456f/index.html",
-     "banner_asset_id": "",
-     "start_time": 1789626600000,
-     "start_time_utc": "2026-09-17T06:30:00Z",
-     "external_url": ""
     }
    ]
   },
