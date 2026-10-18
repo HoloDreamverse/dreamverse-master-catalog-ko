@@ -11,6 +11,28 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-gacha-pickup-261019-pre",
+     "title": "【예고】행복한 시사이드 데이즈 뽑기 개최!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4e1a634f5322768543952cddf2cd7be4bc0473b5f07a992730c44e4c2ee9d28f/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261019",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-relay-003-pre",
+     "title": "【예고】스포트라이트 이벤트「넘치는 빛과 물가의 드레스 코드」 개최!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fa04c696a34d592d21d13d89150ce8777cfce7f35f04f39528793cf67e5d8be6/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-marathon_event-normal-007",
      "title": "포인트 랠리 이벤트「물들여라♪ 선샤인 잼버리」 개최!",
      "type": 2,

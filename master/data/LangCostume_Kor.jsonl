@@ -76,6 +76,7 @@
 {"id":"la-cos-00027-cmmn-0000-00","data":{"id":"la-cos-00027-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00027-nrml-0022-00","data":{"id":"la-cos-00027-nrml-0022-00","text":"기본 값"}}
 {"id":"la-cos-00027-uniq-0022-00","data":{"id":"la-cos-00027-uniq-0022-00","text":"택티컬 리틀 데블"}}
+{"id":"la-cos-00027-uniq-0092-00","data":{"id":"la-cos-00027-uniq-0092-00","text":"선셋 호라이즌"}}
 {"id":"la-cos-00028-cmmn-0000-00","data":{"id":"la-cos-00028-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00028-nrml-0023-00","data":{"id":"la-cos-00028-nrml-0023-00","text":"기본 값"}}
 {"id":"la-cos-00028-uniq-0023-00","data":{"id":"la-cos-00028-uniq-0023-00","text":"크라운드 루나"}}
@@ -90,6 +91,7 @@
 {"id":"la-cos-00032-cmmn-0000-00","data":{"id":"la-cos-00032-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00032-nrml-0026-00","data":{"id":"la-cos-00032-nrml-0026-00","text":"기본 값"}}
 {"id":"la-cos-00032-uniq-0026-00","data":{"id":"la-cos-00032-uniq-0026-00","text":"WH 라이온 커맨더"}}
+{"id":"la-cos-00032-uniq-0093-00","data":{"id":"la-cos-00032-uniq-0093-00","text":"와일드 선샤인"}}
 {"id":"la-cos-00034-cmmn-0000-00","data":{"id":"la-cos-00034-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00034-nrml-0027-00","data":{"id":"la-cos-00034-nrml-0027-00","text":"기본 값"}}
 {"id":"la-cos-00034-uniq-0027-00","data":{"id":"la-cos-00034-uniq-0027-00","text":"엔조이 링 마스터"}}
@@ -136,6 +138,7 @@
 {"id":"la-cos-03008-cmmn-0000-00","data":{"id":"la-cos-03008-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-03008-nrml-0040-00","data":{"id":"la-cos-03008-nrml-0040-00","text":"기본 값"}}
 {"id":"la-cos-03008-uniq-0040-00","data":{"id":"la-cos-03008-uniq-0040-00","text":"포지 더 페이트"}}
+{"id":"la-cos-03008-uniq-0095-00","data":{"id":"la-cos-03008-uniq-0095-00","text":"패셔네이트 레어 메탈"}}
 {"id":"la-cos-03009-cmmn-0000-00","data":{"id":"la-cos-03009-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-03009-nrml-0041-00","data":{"id":"la-cos-03009-nrml-0041-00","text":"기본 값"}}
 {"id":"la-cos-03009-uniq-0041-00","data":{"id":"la-cos-03009-uniq-0041-00","text":"레이니 샤먼즈"}}
@@ -172,6 +175,7 @@
 {"id":"la-cos-04014-cmmn-0000-00","data":{"id":"la-cos-04014-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-04014-nrml-0053-00","data":{"id":"la-cos-04014-nrml-0053-00","text":"기본 값"}}
 {"id":"la-cos-04014-uniq-0053-00","data":{"id":"la-cos-04014-uniq-0053-00","text":"반짝반짝 매직 스톤"}}
+{"id":"la-cos-04014-uniq-0094-00","data":{"id":"la-cos-04014-uniq-0094-00","text":"스파클 젬"}}
 {"id":"la-cos-04015-cmmn-0000-00","data":{"id":"la-cos-04015-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-04015-nrml-0054-00","data":{"id":"la-cos-04015-nrml-0054-00","text":"기본 값"}}
 {"id":"la-cos-04015-uniq-0054-00","data":{"id":"la-cos-04015-uniq-0054-00","text":"엘레강트 레이븐"}}
