@@ -132,17 +132,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-login_bonus-event-260929",
-     "title": "신규 구역 추가 기념 로그인 보너스 개최!",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1996d615211cde0fc454e4bf8ea1a94391caa798c3972e07ebf71f39fa8c0b0b/index.html",
-     "banner_asset_id": "img_banner_full_login-bonus-event-260929",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-fixed-260929",
      "title": "신규 구역 추가 기념! 1명 ★5 확정 뽑기 개최!",
      "type": 1,
@@ -151,17 +140,6 @@
      "banner_asset_id": "img_banner_full_gacha-fixed-260929",
      "start_time": 1790629200000,
      "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-stone-area03_celebration-260929",
-     "title": "신규 구역 추가 기념으로 기간 한정 패키지 등장",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1d84568718e10f213861e88ff014cce706ae000ca15c4a8c371ee5aa6030d1d6/index.html",
-     "banner_asset_id": "img_banner_full_shop-stone-area03-celebration-260929",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
      "external_url": ""
     },
     {
