@@ -88,17 +88,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-login_bonus-event-261029",
-     "title": "핼러윈 로그인 보너스 개최!",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/76fc93c15883e5ea5c7f1790cf5362e84df2f1672b70a1e5692600414ea0faf2/index.html",
-     "banner_asset_id": "img_banner_full_login-bonus-event-261029",
-     "start_time": 1793239200000,
-     "start_time_utc": "2026-10-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-261028",
      "title": "Ver.1.2.100 업데이트 안내",
      "type": 3,
