@@ -19,6 +19,12 @@
 {"id":"la-mission_grp-marathon_event-relay-003-chapter-02","data":{"id":"la-mission_grp-marathon_event-relay-003-chapter-02","text":"이벤트 미션(카엘라)"}}
 {"id":"la-mission_grp-marathon_event-relay-003-chapter-03","data":{"id":"la-mission_grp-marathon_event-relay-003-chapter-03","text":"이벤트 미션(보탄)"}}
 {"id":"la-mission_grp-marathon_event-relay-003-chapter-04","data":{"id":"la-mission_grp-marathon_event-relay-003-chapter-04","text":"이벤트 미션(비쥬)"}}
+{"id":"la-mission_grp-marathon_event-relay-004","data":{"id":"la-mission_grp-marathon_event-relay-004","text":"이벤트 미션"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-01","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-01","text":"이벤트 미션(로보코 씨)"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-02","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-02","text":"이벤트 미션(페코라)"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-03","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-03","text":"이벤트 미션(IRyS)"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-04","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-04","text":"이벤트 미션(네네)"}}
+{"id":"la-mission_grp-marathon_event-relay-004-chapter-05","data":{"id":"la-mission_grp-marathon_event-relay-004-chapter-05","text":"이벤트 미션(레이네)"}}
 {"id":"la-mission_grp-mission_pass-0001-daily","data":{"id":"la-mission_grp-mission_pass-0001-daily","text":"데일리 미션"}}
 {"id":"la-mission_grp-mission_pass-0001-season","data":{"id":"la-mission_grp-mission_pass-0001-season","text":"시즌 미션"}}
 {"id":"la-mission_grp-mission_pass-0001-weekly","data":{"id":"la-mission_grp-mission_pass-0001-weekly","text":"위클리 미션"}}
@@ -32,3 +38,4 @@
 {"id":"la-mission_grp-missionpass-261101-season","data":{"id":"la-mission_grp-missionpass-261101-season","text":"시즌 미션"}}
 {"id":"la-mission_grp-missionpass-261101-weekly","data":{"id":"la-mission_grp-missionpass-261101-weekly","text":"위클리 미션"}}
 {"id":"la-mission_grp-training_support-260816","data":{"id":"la-mission_grp-training_support-260816","text":"육성 응원 미션"}}
+{"id":"la-mission_grp-training_support-261105","data":{"id":"la-mission_grp-training_support-261105","text":"육성 응원 미션"}}

@@ -4,6 +4,7 @@
 {"id":"la-cos-00002-cmmn-0000-00","data":{"id":"la-cos-00002-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00002-nrml-0001-00","data":{"id":"la-cos-00002-nrml-0001-00","text":"기본 값"}}
 {"id":"la-cos-00002-uniq-0001-00","data":{"id":"la-cos-00002-uniq-0001-00","text":"Holo슈트 VHPR"}}
+{"id":"la-cos-00002-uniq-0104-00","data":{"id":"la-cos-00002-uniq-0104-00","text":"퍼피 체크"}}
 {"id":"la-cos-00004-cmmn-0000-00","data":{"id":"la-cos-00004-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00004-nrml-0005-00","data":{"id":"la-cos-00004-nrml-0005-00","text":"기본 값"}}
 {"id":"la-cos-00004-uniq-0005-00","data":{"id":"la-cos-00004-uniq-0005-00","text":"비위칭 캄"}}
@@ -18,6 +19,7 @@
 {"id":"la-cos-00007-cmmn-0000-00","data":{"id":"la-cos-00007-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00007-nrml-0008-00","data":{"id":"la-cos-00007-nrml-0008-00","text":"기본 값"}}
 {"id":"la-cos-00007-uniq-0008-00","data":{"id":"la-cos-00007-uniq-0008-00","text":"슬라이&프리티"}}
+{"id":"la-cos-00007-uniq-0096-00","data":{"id":"la-cos-00007-uniq-0096-00","text":"복슬복슬 늑대 코스튬"}}
 {"id":"la-cos-00009-nrml-0009-00","data":{"id":"la-cos-00009-nrml-0009-00","text":"기본 값"}}
 {"id":"la-cos-00010-cmmn-0000-00","data":{"id":"la-cos-00010-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00010-nrml-0010-00","data":{"id":"la-cos-00010-nrml-0010-00","text":"기본 값"}}
@@ -56,6 +58,7 @@
 {"id":"la-cos-00019-cmmn-0000-00","data":{"id":"la-cos-00019-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00019-nrml-0016-00","data":{"id":"la-cos-00019-nrml-0016-00","text":"기본 값"}}
 {"id":"la-cos-00019-uniq-0016-00","data":{"id":"la-cos-00019-uniq-0016-00","text":"래스컬 버니"}}
+{"id":"la-cos-00019-uniq-0108-00","data":{"id":"la-cos-00019-uniq-0108-00","text":"돌리 블랙 프릴"}}
 {"id":"la-cos-00021-cmmn-0000-00","data":{"id":"la-cos-00021-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00021-nrml-0017-00","data":{"id":"la-cos-00021-nrml-0017-00","text":"기본 값"}}
 {"id":"la-cos-00021-uniq-0017-00","data":{"id":"la-cos-00021-uniq-0017-00","text":"아줄 리본 스타일"}}
@@ -88,6 +91,7 @@
 {"id":"la-cos-00031-cmmn-0000-00","data":{"id":"la-cos-00031-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00031-nrml-0025-00","data":{"id":"la-cos-00031-nrml-0025-00","text":"기본 값"}}
 {"id":"la-cos-00031-uniq-0025-00","data":{"id":"la-cos-00031-uniq-0025-00","text":"업비트 가든"}}
+{"id":"la-cos-00031-uniq-0105-00","data":{"id":"la-cos-00031-uniq-0105-00","text":"Go-Out Energy"}}
 {"id":"la-cos-00032-cmmn-0000-00","data":{"id":"la-cos-00032-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-00032-nrml-0026-00","data":{"id":"la-cos-00032-nrml-0026-00","text":"기본 값"}}
 {"id":"la-cos-00032-uniq-0026-00","data":{"id":"la-cos-00032-uniq-0026-00","text":"WH 라이온 커맨더"}}
@@ -115,12 +119,15 @@
 {"id":"la-cos-03001-cmmn-0000-00","data":{"id":"la-cos-03001-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-03001-nrml-0033-00","data":{"id":"la-cos-03001-nrml-0033-00","text":"기본 값"}}
 {"id":"la-cos-03001-uniq-0033-00","data":{"id":"la-cos-03001-uniq-0033-00","text":"매지컬 포레스트"}}
+{"id":"la-cos-03001-uniq-0114-00","data":{"id":"la-cos-03001-uniq-0114-00","text":"꾸벅꾸벅 도토리"}}
 {"id":"la-cos-03002-cmmn-0000-00","data":{"id":"la-cos-03002-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-03002-nrml-0034-00","data":{"id":"la-cos-03002-nrml-0034-00","text":"기본 값"}}
 {"id":"la-cos-03002-uniq-0034-00","data":{"id":"la-cos-03002-uniq-0034-00","text":"스터닝 문라이트"}}
+{"id":"la-cos-03002-uniq-0113-00","data":{"id":"la-cos-03002-uniq-0113-00","text":"편안한 별빛"}}
 {"id":"la-cos-03003-cmmn-0000-00","data":{"id":"la-cos-03003-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-03003-nrml-0035-00","data":{"id":"la-cos-03003-nrml-0035-00","text":"기본 값"}}
 {"id":"la-cos-03003-uniq-0035-00","data":{"id":"la-cos-03003-uniq-0035-00","text":"캔버스 이모션"}}
+{"id":"la-cos-03003-uniq-0115-00","data":{"id":"la-cos-03003-uniq-0115-00","text":"스르륵 잠드는 햇살"}}
 {"id":"la-cos-03004-cmmn-0000-00","data":{"id":"la-cos-03004-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-03004-nrml-0036-00","data":{"id":"la-cos-03004-nrml-0036-00","text":"기본 값"}}
 {"id":"la-cos-03004-uniq-0036-00","data":{"id":"la-cos-03004-uniq-0036-00","text":"언데드 패치워크"}}
@@ -132,9 +139,11 @@
 {"id":"la-cos-03006-cmmn-0000-00","data":{"id":"la-cos-03006-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-03006-nrml-0038-00","data":{"id":"la-cos-03006-nrml-0038-00","text":"기본 값"}}
 {"id":"la-cos-03006-uniq-0038-00","data":{"id":"la-cos-03006-uniq-0038-00","text":"로열 프로마주"}}
+{"id":"la-cos-03006-uniq-0107-00","data":{"id":"la-cos-03006-uniq-0107-00","text":"비비드 peafowl"}}
 {"id":"la-cos-03007-cmmn-0000-00","data":{"id":"la-cos-03007-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-03007-nrml-0039-00","data":{"id":"la-cos-03007-nrml-0039-00","text":"기본 값"}}
 {"id":"la-cos-03007-uniq-0039-00","data":{"id":"la-cos-03007-uniq-0039-00","text":"블랙 에이전트"}}
+{"id":"la-cos-03007-uniq-0100-00","data":{"id":"la-cos-03007-uniq-0100-00","text":"당돌한 간호사"}}
 {"id":"la-cos-03008-cmmn-0000-00","data":{"id":"la-cos-03008-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-03008-nrml-0040-00","data":{"id":"la-cos-03008-nrml-0040-00","text":"기본 값"}}
 {"id":"la-cos-03008-uniq-0040-00","data":{"id":"la-cos-03008-uniq-0040-00","text":"포지 더 페이트"}}
@@ -159,6 +168,7 @@
 {"id":"la-cos-04007-cmmn-0000-00","data":{"id":"la-cos-04007-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-04007-nrml-0047-00","data":{"id":"la-cos-04007-nrml-0047-00","text":"기본 값"}}
 {"id":"la-cos-04007-uniq-0047-00","data":{"id":"la-cos-04007-uniq-0047-00","text":"레조넌스 네피림"}}
+{"id":"la-cos-04007-uniq-0106-00","data":{"id":"la-cos-04007-uniq-0106-00","text":"걸리시 클래식"}}
 {"id":"la-cos-04009-nrml-0048-00","data":{"id":"la-cos-04009-nrml-0048-00","text":"기본 값"}}
 {"id":"la-cos-04010-cmmn-0000-00","data":{"id":"la-cos-04010-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-04010-nrml-0049-00","data":{"id":"la-cos-04010-nrml-0049-00","text":"기본 값"}}
@@ -179,6 +189,7 @@
 {"id":"la-cos-04015-cmmn-0000-00","data":{"id":"la-cos-04015-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-04015-nrml-0054-00","data":{"id":"la-cos-04015-nrml-0054-00","text":"기본 값"}}
 {"id":"la-cos-04015-uniq-0054-00","data":{"id":"la-cos-04015-uniq-0054-00","text":"엘레강트 레이븐"}}
+{"id":"la-cos-04015-uniq-0099-00","data":{"id":"la-cos-04015-uniq-0099-00","text":"매혹적인 마녀"}}
 {"id":"la-cos-04016-cmmn-0000-00","data":{"id":"la-cos-04016-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-04016-nrml-0055-00","data":{"id":"la-cos-04016-nrml-0055-00","text":"기본 값"}}
 {"id":"la-cos-04016-uniq-0055-00","data":{"id":"la-cos-04016-uniq-0055-00","text":"FUWA FUWA 가드"}}
@@ -199,6 +210,8 @@
 {"id":"la-cos-06004-cmmn-0000-00","data":{"id":"la-cos-06004-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-06004-nrml-0060-00","data":{"id":"la-cos-06004-nrml-0060-00","text":"기본 값"}}
 {"id":"la-cos-06004-uniq-0060-00","data":{"id":"la-cos-06004-uniq-0060-00","text":"낭만 하오리 코디네이드"}}
+{"id":"la-cos-06004-uniq-0098-00","data":{"id":"la-cos-06004-uniq-0098-00","text":"고딕 뱀파이어"}}
 {"id":"la-cos-06005-cmmn-0000-00","data":{"id":"la-cos-06005-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-cos-06005-nrml-0061-00","data":{"id":"la-cos-06005-nrml-0061-00","text":"기본 값"}}
 {"id":"la-cos-06005-uniq-0061-00","data":{"id":"la-cos-06005-uniq-0061-00","text":"스위트 반쵸 스타일"}}
+{"id":"la-cos-06005-uniq-0097-00","data":{"id":"la-cos-06005-uniq-0097-00","text":"최강 강시"}}

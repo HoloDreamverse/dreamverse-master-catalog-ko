@@ -1,5 +1,5 @@
 {
-  "appVersion": "1.2.1",
+  "appVersion": "1.2.101",
   "files": {
     "master/data/LangAchievementCategory_Kor.jsonl": {
       "bytes": 641,
@@ -34,8 +34,8 @@
       "sha256": "d712b35243efdeb94a0032bb17dde0053e39f5ad1a86a332c422b848fc277073"
     },
     "master/data/LangCard_Kor.jsonl": {
-      "bytes": 25872,
-      "sha256": "fa162e1d8f9f1c0224163d955ec0788c54d5412485af5ca4aa1c18ebefc5e317"
+      "bytes": 27735,
+      "sha256": "3cbcfa71613e9d5d8758038a7aa234b1abf05b69c73793002214ae25f65f379c"
     },
     "master/data/LangCharacterGrouping_Kor.jsonl": {
       "bytes": 2626,
@@ -50,16 +50,16 @@
       "sha256": "b64e1002696525c1dc5473a4c7d5e725cc2c3ef989ffab2e0e4a0da9c7c6a33d"
     },
     "master/data/LangCharacterStory_Kor.jsonl": {
-      "bytes": 9153,
-      "sha256": "f93f72aec99207d8e61ad5f7a0d1e64605ffa5c3f5595adc29dd81f5bf16ad46"
+      "bytes": 9803,
+      "sha256": "8a8e9667a75295655850398c57972ad6f55d842eeec409f9360ec770659c24ec"
     },
     "master/data/LangCharacterVoiceCategory_Kor.jsonl": {
       "bytes": 444,
       "sha256": "b0110790db8c6533824291f8509d0a9f270425e65c24204804d43ec161d37035"
     },
     "master/data/LangCharacterVoice_Kor.jsonl": {
-      "bytes": 4549881,
-      "sha256": "3c69a97b65d2b53dac197e3a90808f1f44ada01aacc7c9ce02348acee4c63505"
+      "bytes": 4697105,
+      "sha256": "a396de16ba1b8b2f94db38b12ce913afee09dcffea1fe72e9fdcce66ac69b671"
     },
     "master/data/LangCharacter_Kor.jsonl": {
       "bytes": 57451,
@@ -74,8 +74,8 @@
       "sha256": "ba343fde73f890524dc7b8054e4ac044ba85373fc3ad188bc2990e963f94e6df"
     },
     "master/data/LangClientCommon_Kor.jsonl": {
-      "bytes": 329440,
-      "sha256": "e94fd6b56043628dd5481161fe0e5e44595e5390cf7aa76ba6fce97476d45d07"
+      "bytes": 330795,
+      "sha256": "3ac526dc6de3e54184a7ae88876dabcd8b1b6cdc864c7d819494d7b0b2d0b7d1"
     },
     "master/data/LangComboCardGameRoleScore_Kor.jsonl": {
       "bytes": 1206,
@@ -102,8 +102,8 @@
       "sha256": "bd0c3429112b975811b8cbf01f0a56c59c7dd28d6756d206780aeea27f07e701"
     },
     "master/data/LangCostume_Kor.jsonl": {
-      "bytes": 20971,
-      "sha256": "3fb095b4d526d80af80756ff0545043dc83672b92634d5039c8978e95bdd73b8"
+      "bytes": 22347,
+      "sha256": "85a20d766c91c5f58cd1c03a03c1cb74b42ed5ae9d4a76615e84bcee4a437c41"
     },
     "master/data/LangCountry_Kor.jsonl": {
       "bytes": 6226,
@@ -118,16 +118,16 @@
       "sha256": "cecf09d6af345beac8a5c626192cb64dc505778f28e0f66b2d7c3d8786ba4271"
     },
     "master/data/LangEmblem_Kor.jsonl": {
-      "bytes": 195499,
-      "sha256": "5fbe71a7667b7e8fff48fbb9ff01fb1bc6b861ab46f9993bf534ac59157a9fe4"
+      "bytes": 234555,
+      "sha256": "5b3fda7ff3a4bf8f57ef56d7390a58c63c0acbcb13ce2f0e26d09ad07c538622"
     },
     "master/data/LangEventStoryChapter_Kor.jsonl": {
-      "bytes": 2866,
-      "sha256": "1b0fbda0d8121ada98d25bd14712bcf2f11ea16fee4fdc9b4625dcbfb6db2d82"
+      "bytes": 3960,
+      "sha256": "9e5b25cd5690cf3348411c26aaffddee9ff21eff4a3f1fb78c470d5adbbb02e7"
     },
     "master/data/LangEventStory_Kor.jsonl": {
-      "bytes": 7034,
-      "sha256": "41d35b927964fde3f4ad22efc942706b56b78c15222a8e87133c861619dad686"
+      "bytes": 9980,
+      "sha256": "179c7362d59880c762e9d2e3ea68925efd8119391ea5d32cd26ac99f803b45fd"
     },
     "master/data/LangFacilityAppearance_Kor.jsonl": {
       "bytes": 4614,
@@ -150,28 +150,28 @@
       "sha256": "4536309d9a55fcd68b536d2b06dfbc0bd93af30452fc90a025905b8410d8c548"
     },
     "master/data/LangGachaPoint_Kor.jsonl": {
-      "bytes": 1610,
-      "sha256": "b12e102f447c697dda59021e0ad8e349924bc9069e3d69dff2e431035d37ad1d"
+      "bytes": 2003,
+      "sha256": "58e5675eb74dc24209c966efb9526ebecf762fc746cc32858b8c548650912dee"
     },
     "master/data/LangGeneratedLiveActiveSkillEffect_Kor.jsonl": {
       "bytes": 12468,
       "sha256": "e856f37d46d4bfaffdb1dd5052d194ce4ad429eb9a5a6a2cb5cc1ff797c84e03"
     },
     "master/data/LangGeneratedLiveActiveSkillLevel_Kor.jsonl": {
-      "bytes": 110809,
-      "sha256": "ddf1da7f089cb374701b148dc0524eb20b80159db47db5bc01fc260a04603ea1"
+      "bytes": 117997,
+      "sha256": "e79fefe20c506ed85a7aea5b2a272dc3dc046425417db34a1dc554d47693312b"
     },
     "master/data/LangGeneratedLiveLeaderSkill_Kor.jsonl": {
-      "bytes": 46539,
-      "sha256": "f6c574cfd54354e05d6cb78320dc7a0f9107473555a226dc5ca0e8eff852a647"
+      "bytes": 50107,
+      "sha256": "dd48084905bab49ef7601e365c129a34754c13a8eb72ca21e83f1b7a1b888b74"
     },
     "master/data/LangGeneratedLivePassiveSkillEffect_Kor.jsonl": {
-      "bytes": 67014,
-      "sha256": "e5a665f323acca54e7f087405c0a5b5ecc27ec16689e3f9e0ec6f02891c7e958"
+      "bytes": 70651,
+      "sha256": "7209d3d3f0f3861c77cc2ffa3792ef1235dfc9431d6e9cf1c0a44fca21f98a76"
     },
     "master/data/LangGeneratedLivePassiveSkillLevel_Kor.jsonl": {
-      "bytes": 109826,
-      "sha256": "4f739de8f3b520707b477ba58dd5206fbada948a6bf00ef6afd0eda3eaa6fbf5"
+      "bytes": 117010,
+      "sha256": "0c7830688803c557ab3df413ff13c5ae1844814457a7942bf0df54d0b4996406"
     },
     "master/data/LangGeneratedLiveSkillEffectTarget_Kor.jsonl": {
       "bytes": 18009,
@@ -182,8 +182,8 @@
       "sha256": "673c12eae24ac8a6069287186658b05d93f102aacb62e41bafd18f375761627b"
     },
     "master/data/LangGeneratedLiveSpecialSkillLevel_Kor.jsonl": {
-      "bytes": 101946,
-      "sha256": "45592604bb706353905794390e3a003f6ad57abc3cf3d8acb83c16b33b82300f"
+      "bytes": 108796,
+      "sha256": "3fab6a5f1bd25031231f2b0d79386553ece9e46e2678abe1e416701e4f5036e6"
     },
     "master/data/LangGeneratedSkillTreeConnectEffect_Kor.jsonl": {
       "bytes": 14233,
@@ -222,8 +222,8 @@
       "sha256": "355fb11a36582badaabfb3be42508e575e9253ca856babf6be94819816c98b93"
     },
     "master/data/LangItem_Kor.jsonl": {
-      "bytes": 48696,
-      "sha256": "86de78fc1d896afd5a2ca3f876904356299489f796a399b6c44787ccf7cedafe"
+      "bytes": 52452,
+      "sha256": "97aa0f9996419232ed745cfb96f9ed5f0989d70f5a7f2df5147554da59691009"
     },
     "master/data/LangJumpRopePhase_Kor.jsonl": {
       "bytes": 570,
@@ -242,8 +242,8 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "master/data/LangLiveDialogueVoice_Kor.jsonl": {
-      "bytes": 601777,
-      "sha256": "5cae29f8296c35cbb78019141f8567e3cce7a10b5444849c64d08b2fb434b4d3"
+      "bytes": 625995,
+      "sha256": "a80f93863674d43b623581ab300947705da0824b0221e72e47d02e72061ad958"
     },
     "master/data/LangLiveLeaderSkill_Kor.jsonl": {
       "bytes": 0,
@@ -314,12 +314,12 @@
       "sha256": "7a1ed795bb5d5ec4a3673f71abe2dbc820b75e52a2c855507a7c88dde9bd60dd"
     },
     "master/data/LangMissionGroup_Kor.jsonl": {
-      "bytes": 4848,
-      "sha256": "c3d84f486d6cdb4a9a761b63be41902d6d2154d954cf8c52f36cf32eb93a88dc"
+      "bytes": 5928,
+      "sha256": "be7679031b62b1769e75df74ebd1d11c6cb6c2dac72c5ebc73b86686a4eb31e9"
     },
     "master/data/LangMission_Kor.jsonl": {
-      "bytes": 417148,
-      "sha256": "c3caa7b053027a74fb32ff59696a1b5f8f9df2a6eeaeb66fa1f8445a59418378"
+      "bytes": 422113,
+      "sha256": "77919b33eba492d3aa86dfd15a7e4863b9cce91acce69ae82d58d71b0fee942e"
     },
     "master/data/LangMusicCreativeChartTag_Kor.jsonl": {
       "bytes": 826,
@@ -330,12 +330,12 @@
       "sha256": "8e9c78a17436e25b2133366331eb70b856a366b46fdbc2ad1e0a8e19f87eda17"
     },
     "master/data/LangMusicMv_Kor.jsonl": {
-      "bytes": 16069,
-      "sha256": "02d7a2f0047a0cffad3cc3b5d0d81536e3b76a0f5e96b0aafd1c17f279b41416"
+      "bytes": 18106,
+      "sha256": "e39e1c4b1869d85920175a85bb723f60675615399ca46d94441b9fcff1ee524b"
     },
     "master/data/LangMusic_Kor.jsonl": {
-      "bytes": 224249,
-      "sha256": "3f15704fbc01b4c667943cc8eb19582bb8abe5ccf5805bacd0b4ac1b057e7968"
+      "bytes": 244459,
+      "sha256": "8d9b68a240dcfb4eb2c233a70ab8f55c71a3c83e61439cbb250e4c2474e64c76"
     },
     "master/data/LangParkAccessory_Kor.jsonl": {
       "bytes": 22498,
@@ -406,16 +406,16 @@
       "sha256": "d1fcd1d3aa47ff71c88b0197e37ceb387475f60b3266ca474dc603ef4e757d72"
     },
     "master/data/LangPoster_Kor.jsonl": {
-      "bytes": 5964,
-      "sha256": "90521066525a55e0effdb1f67f05972fd4d298e23368c066ff7603d042004569"
+      "bytes": 7191,
+      "sha256": "a3318f1f650eaf48c15c23a80b23c95123a625b9f51f8f6fe15990ccb66f77fa"
     },
     "master/data/LangPreferenceCapacityLimit_Kor.jsonl": {
       "bytes": 495,
       "sha256": "7e8f50f30a671fe0b0fe61bdb405c4591c88bc2b14ebd069624b99c5305bb1ed"
     },
     "master/data/LangResourceObtainmentRoute_Kor.jsonl": {
-      "bytes": 9091,
-      "sha256": "bcc9a1f9a6c7a8dfbf3aadf247c3a4b1132af35d7c2d991e0b9bfd2c64ab9219"
+      "bytes": 10745,
+      "sha256": "087dff06730bfb72e4c2b4345e3c09d5d0f4bf7bea3a5a178ba9ccdf66d6b243"
     },
     "master/data/LangResourceTypeDetail_Kor.jsonl": {
       "bytes": 7858,
@@ -426,12 +426,12 @@
       "sha256": "839f8293562d435525ad201b8250bbcebea20628e17b845e37ea9043b77e1352"
     },
     "master/data/LangSdCostumeHairAccessory_Kor.jsonl": {
-      "bytes": 58050,
-      "sha256": "283dbab79d4f2f0908c13353d3165be635234bebeb67678493f50678dcb12c72"
+      "bytes": 67500,
+      "sha256": "7344ea0c654bbc9c825e88babc50ae72595886043294869173261270c0756754"
     },
     "master/data/LangSdCostume_Kor.jsonl": {
-      "bytes": 33667,
-      "sha256": "7b0ce5e31110b914186ff18099c196a365f9f3bbebf70349a9fe019b3636791a"
+      "bytes": 35095,
+      "sha256": "dab5db9efc890c6e42e95d7788f98082ff589341d9d0a67e587f0869af45c625"
     },
     "master/data/LangSemiResourceTypeDetail_Kor.jsonl": {
       "bytes": 1201,
@@ -496,11 +496,11 @@
   },
   "generatedBy": "dreamverse-master-updater",
   "lang": "kor",
-  "masterVersion": "452bd7acfd1b9f90cc85d9978aea55b1a6bf6c2cddaff470c640462830c8c00d",
+  "masterVersion": "9171c5282eaf618dab68c4ca2459cfd386c79aad7fb56db59496f2058f78d875",
   "notices": {
     "notices/notices_kor.json": {
-      "bytes": 15239,
-      "sha256": "a402e3edc5c96342d44078fd8fcd255f33e928334961b7680024d8ffdb2ae35a"
+      "bytes": 16225,
+      "sha256": "824d1b2974e247f5531eac0491714b4df61daa2c456fd4dbb80fb8260a2997ba"
     }
   },
   "region": "jp",

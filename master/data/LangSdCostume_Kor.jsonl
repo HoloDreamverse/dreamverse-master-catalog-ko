@@ -8,6 +8,7 @@
 {"id":"la-sdcos-00002-cmmn-0002-00","data":{"id":"la-sdcos-00002-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-00002-nrml-0001-00","data":{"id":"la-sdcos-00002-nrml-0001-00","text":"기본 값"}}
 {"id":"la-sdcos-00002-uniq-0001-00","data":{"id":"la-sdcos-00002-uniq-0001-00","text":"holo슈트 VHPR"}}
+{"id":"la-sdcos-00002-uniq-0104-00","data":{"id":"la-sdcos-00002-uniq-0104-00","text":"퍼피 체크"}}
 {"id":"la-sdcos-00004-cmmn-0000-00","data":{"id":"la-sdcos-00004-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-00004-cmmn-0001-00","data":{"id":"la-sdcos-00004-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-00004-cmmn-0002-00","data":{"id":"la-sdcos-00004-cmmn-0002-00","text":"Dreams Crew Tee"}}
@@ -30,6 +31,7 @@
 {"id":"la-sdcos-00007-cmmn-0002-00","data":{"id":"la-sdcos-00007-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-00007-nrml-0008-00","data":{"id":"la-sdcos-00007-nrml-0008-00","text":"기본 값"}}
 {"id":"la-sdcos-00007-uniq-0008-00","data":{"id":"la-sdcos-00007-uniq-0008-00","text":"슬라이&프리티"}}
+{"id":"la-sdcos-00007-uniq-0096-00","data":{"id":"la-sdcos-00007-uniq-0096-00","text":"복슬복슬 늑대 코스튬"}}
 {"id":"la-sdcos-00009-nrml-0009-00","data":{"id":"la-sdcos-00009-nrml-0009-00","text":"기본 값"}}
 {"id":"la-sdcos-00010-cmmn-0000-00","data":{"id":"la-sdcos-00010-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-00010-cmmn-0001-00","data":{"id":"la-sdcos-00010-cmmn-0001-00","text":"파크 공식 유니폼"}}
@@ -88,6 +90,7 @@
 {"id":"la-sdcos-00019-cmmn-0002-00","data":{"id":"la-sdcos-00019-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-00019-nrml-0016-00","data":{"id":"la-sdcos-00019-nrml-0016-00","text":"기본 값"}}
 {"id":"la-sdcos-00019-uniq-0016-00","data":{"id":"la-sdcos-00019-uniq-0016-00","text":"래스컬 버니"}}
+{"id":"la-sdcos-00019-uniq-0108-00","data":{"id":"la-sdcos-00019-uniq-0108-00","text":"돌리 블랙 프릴"}}
 {"id":"la-sdcos-00021-cmmn-0000-00","data":{"id":"la-sdcos-00021-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-00021-cmmn-0001-00","data":{"id":"la-sdcos-00021-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-00021-cmmn-0002-00","data":{"id":"la-sdcos-00021-cmmn-0002-00","text":"Dreams Crew Tee"}}
@@ -136,6 +139,7 @@
 {"id":"la-sdcos-00031-cmmn-0002-00","data":{"id":"la-sdcos-00031-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-00031-nrml-0025-00","data":{"id":"la-sdcos-00031-nrml-0025-00","text":"기본 값"}}
 {"id":"la-sdcos-00031-uniq-0025-00","data":{"id":"la-sdcos-00031-uniq-0025-00","text":"업비트 가든"}}
+{"id":"la-sdcos-00031-uniq-0105-00","data":{"id":"la-sdcos-00031-uniq-0105-00","text":"Go-Out Energy"}}
 {"id":"la-sdcos-00032-cmmn-0000-00","data":{"id":"la-sdcos-00032-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-00032-cmmn-0001-00","data":{"id":"la-sdcos-00032-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-00032-cmmn-0002-00","data":{"id":"la-sdcos-00032-cmmn-0002-00","text":"Dreams Crew Tee"}}
@@ -177,16 +181,19 @@
 {"id":"la-sdcos-03001-cmmn-0002-00","data":{"id":"la-sdcos-03001-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-03001-nrml-0033-00","data":{"id":"la-sdcos-03001-nrml-0033-00","text":"기본 값"}}
 {"id":"la-sdcos-03001-uniq-0033-00","data":{"id":"la-sdcos-03001-uniq-0033-00","text":"매지컬 포레스트"}}
+{"id":"la-sdcos-03001-uniq-0114-00","data":{"id":"la-sdcos-03001-uniq-0114-00","text":"꾸벅꾸벅 도토리"}}
 {"id":"la-sdcos-03002-cmmn-0000-00","data":{"id":"la-sdcos-03002-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-03002-cmmn-0001-00","data":{"id":"la-sdcos-03002-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-03002-cmmn-0002-00","data":{"id":"la-sdcos-03002-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-03002-nrml-0034-00","data":{"id":"la-sdcos-03002-nrml-0034-00","text":"기본 값"}}
 {"id":"la-sdcos-03002-uniq-0034-00","data":{"id":"la-sdcos-03002-uniq-0034-00","text":"스터닝 문라이트"}}
+{"id":"la-sdcos-03002-uniq-0113-00","data":{"id":"la-sdcos-03002-uniq-0113-00","text":"편안한 별빛"}}
 {"id":"la-sdcos-03003-cmmn-0000-00","data":{"id":"la-sdcos-03003-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-03003-cmmn-0001-00","data":{"id":"la-sdcos-03003-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-03003-cmmn-0002-00","data":{"id":"la-sdcos-03003-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-03003-nrml-0035-00","data":{"id":"la-sdcos-03003-nrml-0035-00","text":"기본 값"}}
 {"id":"la-sdcos-03003-uniq-0035-00","data":{"id":"la-sdcos-03003-uniq-0035-00","text":"캔버스 이모션"}}
+{"id":"la-sdcos-03003-uniq-0115-00","data":{"id":"la-sdcos-03003-uniq-0115-00","text":"스르륵 잠드는 햇살"}}
 {"id":"la-sdcos-03004-cmmn-0000-00","data":{"id":"la-sdcos-03004-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-03004-cmmn-0001-00","data":{"id":"la-sdcos-03004-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-03004-cmmn-0002-00","data":{"id":"la-sdcos-03004-cmmn-0002-00","text":"Dreams Crew Tee"}}
@@ -204,11 +211,13 @@
 {"id":"la-sdcos-03006-cmmn-0002-00","data":{"id":"la-sdcos-03006-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-03006-nrml-0038-00","data":{"id":"la-sdcos-03006-nrml-0038-00","text":"기본 값"}}
 {"id":"la-sdcos-03006-uniq-0038-00","data":{"id":"la-sdcos-03006-uniq-0038-00","text":"로열 프로마주"}}
+{"id":"la-sdcos-03006-uniq-0107-00","data":{"id":"la-sdcos-03006-uniq-0107-00","text":"비비드 peafowl"}}
 {"id":"la-sdcos-03007-cmmn-0000-00","data":{"id":"la-sdcos-03007-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-03007-cmmn-0001-00","data":{"id":"la-sdcos-03007-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-03007-cmmn-0002-00","data":{"id":"la-sdcos-03007-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-03007-nrml-0039-00","data":{"id":"la-sdcos-03007-nrml-0039-00","text":"기본 값"}}
 {"id":"la-sdcos-03007-uniq-0039-00","data":{"id":"la-sdcos-03007-uniq-0039-00","text":"블랙 에이전트"}}
+{"id":"la-sdcos-03007-uniq-0100-00","data":{"id":"la-sdcos-03007-uniq-0100-00","text":"당돌한 간호사"}}
 {"id":"la-sdcos-03008-cmmn-0000-00","data":{"id":"la-sdcos-03008-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-03008-cmmn-0001-00","data":{"id":"la-sdcos-03008-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-03008-cmmn-0002-00","data":{"id":"la-sdcos-03008-cmmn-0002-00","text":"Dreams Crew Tee"}}
@@ -245,6 +254,7 @@
 {"id":"la-sdcos-04007-cmmn-0002-00","data":{"id":"la-sdcos-04007-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-04007-nrml-0047-00","data":{"id":"la-sdcos-04007-nrml-0047-00","text":"기본 값"}}
 {"id":"la-sdcos-04007-uniq-0047-00","data":{"id":"la-sdcos-04007-uniq-0047-00","text":"레조넌스 네피림"}}
+{"id":"la-sdcos-04007-uniq-0106-00","data":{"id":"la-sdcos-04007-uniq-0106-00","text":"걸리시 클래식"}}
 {"id":"la-sdcos-04009-nrml-0048-00","data":{"id":"la-sdcos-04009-nrml-0048-00","text":"기본 값"}}
 {"id":"la-sdcos-04010-cmmn-0000-00","data":{"id":"la-sdcos-04010-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-04010-cmmn-0001-00","data":{"id":"la-sdcos-04010-cmmn-0001-00","text":"파크 공식 유니폼"}}
@@ -275,6 +285,7 @@
 {"id":"la-sdcos-04015-cmmn-0002-00","data":{"id":"la-sdcos-04015-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-04015-nrml-0054-00","data":{"id":"la-sdcos-04015-nrml-0054-00","text":"기본 값"}}
 {"id":"la-sdcos-04015-uniq-0054-00","data":{"id":"la-sdcos-04015-uniq-0054-00","text":"엘레강트 레이븐"}}
+{"id":"la-sdcos-04015-uniq-0099-00","data":{"id":"la-sdcos-04015-uniq-0099-00","text":"매혹적인 마녀"}}
 {"id":"la-sdcos-04016-cmmn-0000-00","data":{"id":"la-sdcos-04016-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-04016-cmmn-0001-00","data":{"id":"la-sdcos-04016-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-04016-cmmn-0002-00","data":{"id":"la-sdcos-04016-cmmn-0002-00","text":"Dreams Crew Tee"}}
@@ -305,8 +316,10 @@
 {"id":"la-sdcos-06004-cmmn-0002-00","data":{"id":"la-sdcos-06004-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-06004-nrml-0060-00","data":{"id":"la-sdcos-06004-nrml-0060-00","text":"기본 값"}}
 {"id":"la-sdcos-06004-uniq-0060-00","data":{"id":"la-sdcos-06004-uniq-0060-00","text":"낭만 하오리 코디네이드"}}
+{"id":"la-sdcos-06004-uniq-0098-00","data":{"id":"la-sdcos-06004-uniq-0098-00","text":"고딕 뱀파이어"}}
 {"id":"la-sdcos-06005-cmmn-0000-00","data":{"id":"la-sdcos-06005-cmmn-0000-00","text":"드리미 드롭"}}
 {"id":"la-sdcos-06005-cmmn-0001-00","data":{"id":"la-sdcos-06005-cmmn-0001-00","text":"파크 공식 유니폼"}}
 {"id":"la-sdcos-06005-cmmn-0002-00","data":{"id":"la-sdcos-06005-cmmn-0002-00","text":"Dreams Crew Tee"}}
 {"id":"la-sdcos-06005-nrml-0061-00","data":{"id":"la-sdcos-06005-nrml-0061-00","text":"기본 값"}}
 {"id":"la-sdcos-06005-uniq-0061-00","data":{"id":"la-sdcos-06005-uniq-0061-00","text":"스위트 반쵸 스타일"}}
+{"id":"la-sdcos-06005-uniq-0097-00","data":{"id":"la-sdcos-06005-uniq-0097-00","text":"최강 강시"}}
