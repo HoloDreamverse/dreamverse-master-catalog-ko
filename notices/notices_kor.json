@@ -11,17 +11,6 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-birthday-chr-00030-261115",
-     "title": "Happy Birthday! 유키하나 라미",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9586be886cffa8655d45cf6ad499b944a0619119c6ec26cd050988bce3d50671/index.html",
-     "banner_asset_id": "img_banner_full_birthday-chr-00030-261115",
-     "start_time": 1794668400000,
-     "start_time_utc": "2026-11-14T15:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-pickup-261114",
      "title": "화창한 가을에 외출을♪ 뽑기 개최!",
      "type": 1,
