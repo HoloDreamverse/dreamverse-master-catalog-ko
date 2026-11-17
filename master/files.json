@@ -496,11 +496,11 @@
   },
   "generatedBy": "dreamverse-master-updater",
   "lang": "kor",
-  "masterVersion": "9171c5282eaf618dab68c4ca2459cfd386c79aad7fb56db59496f2058f78d875",
+  "masterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
   "notices": {
     "notices/notices_kor.json": {
       "bytes": 15249,
-      "sha256": "a48ece0641d47f5ca88672886b10025f899679acb638fb2a65cb632efdeed6f8"
+      "sha256": "50a90e95866b1bb9ba98ed2377c5a31d41fb78e6cbc9a68d021483f72625e16b"
     }
   },
   "region": "jp",
