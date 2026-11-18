@@ -33,17 +33,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-009",
-     "title": "스코어 챌린지 이벤트「기나긴 가을밤에, 한 지붕 아래서」 개최!",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7f70daeb2b2c2a76962d39fe5b71d06c1d3f157d4eb10dd08b002c1e294eb1ca/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-009",
-     "start_time": 1793934000000,
-     "start_time_utc": "2026-11-06T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-mv-release",
      "title": "일부 악곡 MV 추가 안내",
      "type": 4,
