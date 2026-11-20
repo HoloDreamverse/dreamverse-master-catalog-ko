@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-gift-gp_bestgame-261120",
+     "title": "Google Play Best of 2026 「베스트 게임」 부문 수상!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7d47ed6432bc1cf40c7fbf770a46720d254427c857f4ee075e0cc9a0072d1ac3/index.html",
+     "banner_asset_id": "img_banner_full_gift-gp-bestgame-261120",
+     "start_time": 1795147200000,
+     "start_time_utc": "2026-11-20T04:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gacha-pickup-261114",
      "title": "화창한 가을에 외출을♪ 뽑기 개최!",
      "type": 1,
@@ -85,17 +96,6 @@
      "banner_asset_id": "img_banner_full_info-survey-260828",
      "start_time": 1793156400000,
      "start_time_utc": "2026-10-28T03:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-other-261019",
-     "title": "운영팀 공지 사항",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fa7cfb09d0fe2ed956ef6fd644d8a071bf6c3ec103c47a0c1d8f8f525f3f0dc0/index.html",
-     "banner_asset_id": "",
-     "start_time": 1792395000000,
-     "start_time_utc": "2026-10-19T07:30:00Z",
      "external_url": ""
     },
     {
@@ -302,6 +302,36 @@
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    }
+   ]
+  },
+  {
+   "id": "notice_category-announce",
+   "name": "운영팀에서\n드리는 안내",
+   "display_type": 1,
+   "display_type_name": "normal",
+   "notices": [
+    {
+     "id": "notice-news-info-other-261125",
+     "title": "운영팀에서 드리는 안내",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c833b320c97be4b05a8ecfecf4f5ad88b06c66e1623347507e065fc19ba1b6bc/index.html",
+     "banner_asset_id": "",
+     "start_time": 1795147200000,
+     "start_time_utc": "2026-11-20T04:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-other-261019",
+     "title": "운영팀 공지 사항",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fa7cfb09d0fe2ed956ef6fd644d8a071bf6c3ec103c47a0c1d8f8f525f3f0dc0/index.html",
+     "banner_asset_id": "",
+     "start_time": 1792395000000,
+     "start_time_utc": "2026-10-19T07:30:00Z",
      "external_url": ""
     }
    ]
