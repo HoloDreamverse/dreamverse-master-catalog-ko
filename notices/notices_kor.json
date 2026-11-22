@@ -11,17 +11,6 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-birthday-chr-04015-261121",
-     "title": "Happy Birthday! 네리사 레이븐크로프트",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/99d1687efbef565013b6b2cce14a7eca4a17bed3803e914096ea4f729bcc2039/index.html",
-     "banner_asset_id": "img_banner_full_birthday-chr-04015-261121",
-     "start_time": 1795186800000,
-     "start_time_utc": "2026-11-20T15:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gift-gp_bestgame-261120",
      "title": "Google Play Best of 2026 「베스트 게임」 부문 수상!",
      "type": 4,
