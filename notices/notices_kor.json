@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-birthday-chr-00022-261124",
+     "title": "Happy Birthday! 시로가네 노엘",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f919e16bbf223b89512ee9514d42c815a3fe972229ab688396d72c432228550b/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00022-261124",
+     "start_time": 1795446000000,
+     "start_time_utc": "2026-11-23T15:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-info-stream-123",
      "title": "holodori 공식 특별 방송 방영 결정!",
      "type": 4,
